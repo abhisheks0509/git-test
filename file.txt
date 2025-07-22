@@ -1,6 +1,3 @@
 
 this project is for practice process
-
-
-
 changes from remote repo
